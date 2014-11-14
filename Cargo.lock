@@ -1,0 +1,12 @@
+[root]
+name = "mytime"
+version = "0.0.1"
+dependencies = [
+ "time 0.0.1 (git+https://github.com/rust-lang/time#f8c6b514021f0eef55267220b9435cb221d7d6c3)",
+]
+
+[[package]]
+name = "time"
+version = "0.0.1"
+source = "git+https://github.com/rust-lang/time#f8c6b514021f0eef55267220b9435cb221d7d6c3"
+
